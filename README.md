@@ -1,2 +1,3 @@
-# mongo_jwt
-This is a JWT authentication based Login with mongodb as database
+#e_commerce app
+
+this is a ecommerce app bult using nestjs
